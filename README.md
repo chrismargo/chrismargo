@@ -1,11 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chris Margate</h1>
-<h3 align="center">I'm a 4th year BSIT student from the Polytechnic University of the Philippines, Manila. I'm passionate about learning and solving problems with different technologies. I have developed desktop apps, mobile apps, as well as web apps. I'm also an AI/ML enthusiast. I plan to use the knowledge I have gained to create good social impact.</h3>
+<h3 align="center">I'm a 4th year BSIT student from the Polytechnic University of the Philippines, Manila. I'm passionate about learning and solving problems with different technologies, using my knowledge in software development in desktop apps, mobile apps, web apps, as well as developing AI/ML solutions.</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrismargo&label=Profile%20views&color=0e75b6&style=flat" alt="chrismargo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrismargo" alt="chrismargo" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, React, React Native**
 
