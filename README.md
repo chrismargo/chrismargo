@@ -1,4 +1,4 @@
-![MasterHead](https://techcrunch.com/wp-content/uploads/2019/12/yc-school.png?w=1390&crop=1)
+![MasterHead](https://scontent.fmnl2-2.fna.fbcdn.net/v/t39.30808-6/305621077_120180107482698_1206237179649302036_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEafeemIpjNR8GjVazSxCUxjKohT2mwacqMqiFPabBpyhGDTAi9sEgy2IrGVSoe1di3HKPh0pTLCT4cStZeI06h&_nc_ohc=KNbtz7hEsbkAX8CAeJ9&_nc_ht=scontent.fmnl2-2.fna&oh=00_AfAKfAJAY8BUVyhjfv5MR-qTgElejs8UJiBdt3t3heUTzA&oe=64002AEE)
 <h1 align="center">Hi 👋, I'm Chris Margate</h1>
 <h3 align="center">I'm a 4th year BSIT student from the Polytechnic University of the Philippines, Manila. I'm passionate about learning and solving problems with different technologies, using my knowledge in software development in desktop apps, mobile apps, web apps, as well as developing AI/ML solutions.</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif">
